@@ -131,27 +131,6 @@ it makes sense
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-stats-extended.vercel.app/api?username=251-15-227-emon&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=251-15-227-emon&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%"/>
-</td>
-</tr>
-</table>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=251-15-227-emon&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=251-15-227-emon&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</p>
-
 ---
 
 ## 🚀 Featured Projects
