@@ -218,7 +218,3 @@ Currently working on improving fundamentals and building larger projects.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:6D28D9&height=120&section=footer" />
 
-
-
-
-eikhane kisu problem ache..fix koro snake genarator problem o ase majhe majhe notification e ...thik kore trpr full code deu 
