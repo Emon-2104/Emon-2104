@@ -193,9 +193,3 @@ Currently working on improving fundamentals and building larger projects.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:6D28D9&height=120&section=footer" />
 
-
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
