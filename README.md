@@ -126,10 +126,6 @@ it makes sense
 </tr>
 </table>
 
----
-
-
----
 
 ---
 
