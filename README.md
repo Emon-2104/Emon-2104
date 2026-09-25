@@ -181,10 +181,6 @@ Currently working on improving fundamentals and building larger projects.
 ---
 
 
-
----
-
-
 *Learning today. Building tomorrow.*
 
 ⭐ Explore my repositories and follow the journey.
